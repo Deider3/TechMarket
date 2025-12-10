@@ -1,0 +1,10 @@
+.product-img {
+    height: 250px;
+    object-fit: cover;
+}
+
+.banner-img {
+    width: 100%;
+    border-radius: 10px;
+}
+
